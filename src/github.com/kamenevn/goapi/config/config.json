@@ -1,0 +1,11 @@
+{
+  "database" : {
+    "Host": "localhost",
+    "Name": "golangapi",
+    "User": "kmnv",
+    "Password": "password"
+  },
+  "log": {
+    "file": "./log/file.log"
+  }
+}
